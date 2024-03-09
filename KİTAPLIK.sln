@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KİTAPLIK", "KİTAPLIK\KİTAPLIK.csproj", "{43C81246-EE1E-4FE5-A015-22780F9E875D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C81246-EE1E-4FE5-A015-22780F9E875D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C81246-EE1E-4FE5-A015-22780F9E875D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C81246-EE1E-4FE5-A015-22780F9E875D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C81246-EE1E-4FE5-A015-22780F9E875D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2B97948-3FF7-44B0-AF83-81A7D37B6D91}
+	EndGlobalSection
+EndGlobal
